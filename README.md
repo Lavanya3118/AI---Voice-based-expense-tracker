@@ -142,5 +142,3 @@ service cloud.firestore {
 
 ---
 
-## 📄 License
-MIT — Free to use and modify.
